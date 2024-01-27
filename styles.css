@@ -1,0 +1,14 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+#title,#img-div
+{
+    text-align: center;
+}
+
+#tribute-link
+{
+    margin-left: 45%;
+}
